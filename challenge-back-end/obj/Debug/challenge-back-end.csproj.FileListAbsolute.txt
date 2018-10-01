@@ -1,0 +1,178 @@
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\ApplicationInsights.config
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\csc.exe
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\vbc.exe
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\challenge-back-end.dll.config
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\challenge-back-end.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\challenge-back-end.pdb
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Newtonsoft.Json.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Helpers.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Http.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Mvc.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Razor.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.Razor.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Razor.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.Razor.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Helpers.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Mvc.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\Newtonsoft.Json.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Http.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\obj\Debug\challenge-back-end.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\obj\Debug\challenge-back-end.dll
+C:\Users\Administrador.DESKTOP-4R2VTNU\Documents\Visual Studio 2015\Projects\challenge-back-end\challenge-back-end\obj\Debug\challenge-back-end.pdb
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\ApplicationInsights.config
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\csc.exe
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\vbc.exe
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\VBCSCompiler.exe
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\challenge-back-end.dll.config
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\challenge-back-end.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\challenge-back-end.pdb
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.AI.Web.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.ApplicationInsights.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Newtonsoft.Json.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Net.Http.Formatting.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Helpers.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Http.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Http.WebHost.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Mvc.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Razor.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.Razor.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.AI.Web.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.ApplicationInsights.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Razor.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Webpages.Razor.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Helpers.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Mvc.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\Newtonsoft.Json.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Net.Http.Formatting.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Http.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\System.Web.Http.WebHost.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\obj\Debug\challenge-back-end.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\obj\Debug\challenge-back-end.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\obj\Debug\challenge-back-end.csproj.CopyComplete
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\obj\Debug\challenge-back-end.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\obj\Debug\challenge-back-end.pdb
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\EntityFramework.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\EntityFramework.SqlServer.dll
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\EntityFramework.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\EntityFramework.SqlServer.xml
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\App_Data\APIDB.mdf
+C:\Users\diego\source\repos\challenge-back-end\challenge-back-end\bin\App_Data\APIDB_log.ldf
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\App_Data\APIDB.mdf
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\App_Data\APIDB_log.ldf
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\ApplicationInsights.config
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\csc.exe
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\vbc.exe
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\VBCSCompiler.exe
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\challenge-back-end.dll.config
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\challenge-back-end.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\challenge-back-end.pdb
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\EntityFramework.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\EntityFramework.SqlServer.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.AI.Web.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.ApplicationInsights.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Newtonsoft.Json.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Net.Http.Formatting.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Helpers.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Http.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Http.WebHost.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Mvc.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Razor.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Webpages.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Webpages.Razor.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\EntityFramework.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\EntityFramework.SqlServer.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.AI.Web.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.ApplicationInsights.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Razor.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Webpages.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Webpages.Razor.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Helpers.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Mvc.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\Newtonsoft.Json.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Net.Http.Formatting.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Http.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\bin\System.Web.Http.WebHost.xml
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\obj\Debug\challenge-back-end.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\obj\Debug\challenge-back-end.csproj.CopyComplete
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\obj\Debug\challenge-back-end.dll
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\obj\Debug\challenge-back-end.pdb
+C:\Users\diego\source\repos\challenge-back-end-1\challenge-back-end\obj\Debug\challenge-back-end.csprojAssemblyReference.cache

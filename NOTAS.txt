@@ -1,0 +1,5 @@
+O resumo ou o relatório que foi pedido não conseguir criar uma tela para ele, porém foi implementado. Utilizei o postman para simular 
+
+A porta que está usando essa aplicação é 11551, pode ser que ocorra algum erro por causa da porta. 
+
+O banco de dados é local APIDB.mdf, a IDE foi o visual studio 2017.
